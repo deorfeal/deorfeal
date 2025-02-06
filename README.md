@@ -26,7 +26,7 @@
 
 ---
 
-## 🏆 Work Experience  
+### 🏆 Work Experience  
 ### 🔹 **Frontend Developer | Freelance (Freelancehunt, Weblancer)** _(Jan 2021 – Present)_  
 📌 Developed SPAs, corporate websites, and web applications for international clients.  
 📌 Specialized in performance optimization, UI/UX improvements, and responsive design.  
@@ -44,14 +44,14 @@
 
 ---
 
-## 🌍 Languages  
+### 🌍 Languages  
 - 🇺🇸 **English** ★★★★☆  
 - 🇷🇺 **Russian** ★★★★★  
 - 🇺🇦 **Ukrainian** ★★★★★  
 
 ---
 
-## 📫 How to Reach Me  
+### 📫 How to Reach Me  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://deorfeal.github.io/Dcompany/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/deorfeal) [![Freelancehunt](https://img.shields.io/badge/-Freelancehunt-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://freelancehunt.com/freelancer/deorfeal.html) [![Weblancer](https://img.shields.io/badge/-Weblancer-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.weblancer.net/users/deorfeal/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-profile/)  
 
 ---
@@ -61,7 +61,7 @@
 
 ---
 
-## 🚀 Let's Build Something Great Together!  
+### 🚀 Let's Build Something Great Together!  
 
 ---
 
