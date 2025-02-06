@@ -1,3 +1,5 @@
+---
+
 # 👋 Hi, I'm **Mykhailo Hakman**  
 🚀 **Frontend Developer | Vue.js | TypeScript**  
 📍 **Pavia, Italy**  
@@ -61,6 +63,7 @@
 
 ## 🚀 Let's Build Something Great Together!  
 
+---
 
 
 
