@@ -11,7 +11,7 @@
 
 ---
 
-# 🔧 Tech Stack  
+#### 🔧 Tech Stack  
 
 ### 🌟 Core Technologies  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Pinia](https://img.shields.io/badge/-Pinia-FDC500?logo=pinia&logoColor=white&style=flat-square) ![Vue Router](https://img.shields.io/badge/-Vue_Router-4FC08D?logo=vue.js&logoColor=white&style=flat-square) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)  
