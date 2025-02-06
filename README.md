@@ -56,6 +56,11 @@
 
 ---
 
+### 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=deorfeal&theme=discord&no-frame=true&margin-w=10&column=7)
+
+---
+
 ### 🎖️ Fun Badges  
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red) ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-Coffee-%23FFDD00?logo=buy-me-a-coffee) ![Always Learning](https://img.shields.io/badge/-Always%20Learning-blue?style=flat-square)  
 
