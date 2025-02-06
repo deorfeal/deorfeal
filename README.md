@@ -23,8 +23,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Mykhailo's GitHub stats](https://github-readme-stats.vercel.app/api?username=deorfeal&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deorfeal&layout=compact&theme=dark)  
+### 📈 GitHub Activity  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deorfeal&theme=github-dark)  
 
 ---
 
@@ -58,32 +58,14 @@
 
 ---
 
+### 🎖️ Fun Badges  
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red) ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-Coffee-%23FFDD00?logo=buy-me-a-coffee) ![Always Learning](https://img.shields.io/badge/-Always%20Learning-blue?style=flat-square)  
+
+---
+
 ## 🚀 Let's Build Something Great Together!  
 
----
 
-### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=deorfeal&theme=dark)  
 
----
 
-### 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=deorfeal&theme=darkhub&no-bg=true&no-frame=true&column=4)  
-
----
-
-### 📈 GitHub Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deorfeal&theme=github-dark)  
-
----
-
-### 💡 Dev Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
-
----
-
-### 🎖️ Fun Badges  
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)  
-![Powered by Coffee](https://img.shields.io/badge/Powered%20by-Coffee-%23FFDD00?logo=buy-me-a-coffee)  
-![Always Learning](https://img.shields.io/badge/-Always%20Learning-blue?style=flat-square)  
 
