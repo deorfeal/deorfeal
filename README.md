@@ -52,7 +52,7 @@
 ---
 
 ## 📫 How to Reach Me  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://deorfeal.github.io/Dcompany/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/deorfeal) [![Freelancehunt](https://img.shields.io/badge/-Freelancehunt-FF5722?style=flat-square&logo=fiverr&logoColor=white)](https://freelancehunt.com/freelancer/deorfeal.html) [![Weblancer](https://img.shields.io/badge/-Weblancer-0073E6?style=flat-square&logo=upwork&logoColor=white)](https://www.weblancer.net/users/deorfeal/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-profile/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://deorfeal.github.io/Dcompany/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/deorfeal) [![Freelancehunt](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://freelancehunt.com/freelancer/deorfeal.html) [![Weblancer](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.weblancer.net/users/deorfeal/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-profile/)  
 
 ---
 
