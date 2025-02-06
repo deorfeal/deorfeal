@@ -1,7 +1,3 @@
-Вот обновленный вариант `README.md` с примочками и полными данными:  
-
----
-
 # 👋 Hi, I'm **Mykhailo Hakman**  
 🚀 **Frontend Developer | Vue.js | TypeScript**  
 📍 **Pavia, Italy**  
