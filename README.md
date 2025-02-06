@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm **Mykhailo Hakman**  
+### 👋 Hi, I'm **Mykhailo Hakman**  
 🚀 **Frontend Developer | Vue.js | TypeScript**  
 📍 **Pavia, Italy**  
 📞 **+39 351 795 1487** ([WhatsApp](https://wa.me/393517951487))  
