@@ -21,11 +21,6 @@
 
 ---
 
-### 📈 GitHub Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deorfeal&theme=github-dark)  
-
----
-
 ### 🏆 Work Experience  
 ### 🔹 **Frontend Developer | Freelance (Freelancehunt, Weblancer)** _(Jan 2021 – Present)_  
 📌 Developed SPAs, corporate websites, and web applications for international clients.  
